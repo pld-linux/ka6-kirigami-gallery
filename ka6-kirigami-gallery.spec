@@ -40,6 +40,12 @@ Example application which uses all features from kirigami, including
 links to the sourcecode, tips on how to use the components and links
 to the corresponding HIG pages and code examples on invent.
 
+%description -l pl.UTF-8
+Przykładowa aplikacja, która korzysta z wszystkich możliwości
+kirigami, zawierająca odnośniki do kodu źródłowewgo, podpowiedzi jak
+używać komponentów i odnośniki do odpowiednich stron HIG i przykładów
+kodu na invent.kde.org.
+
 %prep
 %setup -q -n %{kaname}-%{version}
 
